@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kusha.finalproject">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Wolf Express "
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        android:name="AppController"
+        android:allowBackup="true"
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Protein" />
+        <activity android:name=".Salad" />
+        <activity android:name=".ChoiceWrap" />
+        <activity android:name=".Cheese" />
+        <activity android:name=".Toppings" />
+        <activity android:name=".Dressings" />
+        <activity android:name=".Greens" />
+        <activity android:name=".SaladProtein" />
+        <activity android:name=".SaladTopping" />
+        <activity android:name=".Crountons" />
+        <activity android:name=".SaladDressing" />
+        <activity android:name=".GrillMenu" />
+        <activity android:name=".PickSandwich" />
+        <activity android:name=".Buns" />
+        <activity android:name=".GrillToppings" />
+        <activity android:name=".Burgers" />
+        <activity android:name=".toastwrap" />
+        <activity android:name=".grill_cheese" />
+        <activity android:name=".Orderlist" />
+        <activity android:name=".OrderPlaced" />
+        <activity android:name=".GeneratorActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".UserActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".ProgressActivity" />
+        <activity android:name=".OrderHistoryActivity" />
+        <activity android:name=".PaymentOptionsActivity"></activity>
+    </application>
+
+</manifest>

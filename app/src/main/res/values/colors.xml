@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f6423a</color>
+    <color name="colorPrimaryDark">#ea2118</color>
+    <color name="colorAccent">#f6423a</color>
+    <color name="blue">#dabebf</color>
+    <color name="holo_blue_light">#33b5e5</color>
+    <!-- A light Holo shade of gray -->
+    <color name="holo_gray_light">#33999999</color>
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#99cc00</color>
+    <!-- A light Holo shade of red -->
+    <color name="holo_red_light">#ff4444</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#1fcb08</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc0000</color>
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffffbb33</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <!-- A really bright Holo shade of blue -->
+    <color name="holo_blue_bright">#00ddff</color>
+    <!-- A really bright Holo shade of gray -->
+    <color name="holo_gray_bright">#33cccccc</color>
+
+    <color name="white">#ffffff</color>
+
+        <color name="edittextunderline">#f6423a</color>
+        <color name ="login_button_background">#f6423a</color>
+        <color name ="bg_login">#00ffffff</color>
+        <color name="bg_register">#2e3237</color>
+        <color name="bg_main">#428bca</color>
+        <color name="input_login">#222222</color>
+        <color name="input_login_hint">#999999</color>
+        <color name="input_register">#888888</color>
+        <color name="input_register_bg">#3b4148</color>
+        <color name="input_register_hint">#5e6266</color>
+        <color name="btn_login">#26ae90</color>
+        <color name="btn_login_bg">#eceef1</color>
+        <color name="lbl_name">#333333</color>
+        <color name="btn_logut_bg">#00ffffff</color>
+
+    </resources>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.Cheese">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:id="@+id/Cheese"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select your Cheese"
+            android:textAlignment="center"
+            android:textSize="40dp"
+            android:background="#ffffff"/>
+        <Button
+            android:id="@+id/American"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="American"
+            android:layout_below="@id/Cheese"
+            />
+        <Button
+            android:id="@+id/Provolone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Provolone"
+            android:layout_below="@id/American"/>
+        <Button
+            android:id="@+id/PepperJack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pepper Jack"
+            android:layout_below="@id/Provolone"/>
+        <Button
+            android:id="@+id/Swiss"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Swiss"
+            android:layout_below="@id/PepperJack"/>
+        <Button
+            android:id="@+id/Cheddar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cheddar"
+            android:layout_below="@id/Swiss"/>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

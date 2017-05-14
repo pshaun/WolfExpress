@@ -1,0 +1,4 @@
+#Fri May 12 21:00:04 EDT 2017
+base.0=/Users/Prashant/Downloads/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Prashant/Downloads/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

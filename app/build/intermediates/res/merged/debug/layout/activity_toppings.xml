@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.Toppings">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+        android:id="@+id/Toppings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Toppings"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:background="#ffffff"/>
+        <Button
+            android:id="@+id/Lettuce"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lettuce"
+            android:layout_below="@id/Toppings"
+            />
+        <Button
+            android:id="@+id/Tomatoes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tomatoes"
+            android:layout_below="@id/Lettuce"
+            />
+        <Button
+            android:id="@+id/Pickels"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pickels"
+            android:layout_below="@id/Tomatoes"
+            />
+        <Button
+            android:id="@+id/Onion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Onion"
+            android:layout_below="@id/Pickels"
+            />
+        <Button
+            android:id="@+id/GreenPepper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Green Pepper"
+            android:layout_below="@id/Onion"/>
+
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

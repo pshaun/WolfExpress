@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.SaladProtein">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteY="8dp"
+    tools:layout_editor_absoluteX="8dp"
+    tools:ignore="MissingConstraints">
+    <TextView
+        android:id="@+id/SaladProtein"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Protein"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:background="#ffffff"/>
+    <Button
+        android:id="@+id/CS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chicken Salad"
+        android:layout_below="@id/SaladProtein"
+        />
+    <Button
+        android:id="@+id/Turkey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Turkey"
+        android:layout_below="@id/CS"
+        />
+    <Button
+        android:id="@+id/RC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Roasted Chicken"
+        android:layout_below="@id/Turkey"
+        />
+    <Button
+        android:id="@+id/BuffaloChicken"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buffalo Chicken"
+        android:layout_below="@id/RC"
+        />
+    <Button
+        android:id="@+id/H"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ham"
+        android:layout_below="@id/BuffaloChicken"
+        />
+    <Button
+        android:id="@+id/S"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salami"
+        android:layout_below="@id/H"
+        />
+    <Button
+        android:id="@+id/ES"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Egg Salad"
+        android:layout_below="@id/S"
+        />
+    <Button
+        android:id="@+id/TS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tuna Salad"
+        android:layout_below="@id/ES"
+        />
+    <Button
+        android:id="@+id/CC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Crispy Chicken"
+        android:layout_below="@id/TS"
+        />
+
+</RelativeLayout>
+</android.support.constraint.ConstraintLayout>

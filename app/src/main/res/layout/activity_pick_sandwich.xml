@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.PickSandwich">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteY="8dp"
+    tools:layout_editor_absoluteX="8dp"
+    tools:ignore="MissingConstraints">
+    <TextView
+        android:id="@+id/pickSandwich"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Sandwich"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:background="#ffffff"/>
+    <Button
+        android:id="@+id/CCS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chipotle Chicken Sandwich"
+        android:layout_below="@id/pickSandwich"
+        />
+    <Button
+        android:id="@+id/CCS2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Crispy Chicken Sandwich"
+        android:layout_below="@id/CCS"
+        />
+    <Button
+        android:id="@+id/GCS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Grilled Chicken Sandwich"
+        android:layout_below="@id/CCS2"
+        />
+    <Button
+        android:id="@+id/CCT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Crispy Chicken Tender"
+        android:layout_below="@id/GCS"
+        />
+
+</RelativeLayout>
+</android.support.constraint.ConstraintLayout>

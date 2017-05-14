@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.Dressings">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:id="@+id/Dressing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Dressing"
+            android:textAlignment="center"
+            android:textSize="40dp"
+            android:background="#ffffff"/>
+        <Button
+            android:id="@+id/ChipotleMayo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chipotle Mayo"
+            android:layout_below="@id/Dressing"/>
+        <Button
+            android:id="@+id/Mayonnaise"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mayonnaise"
+            android:layout_below="@id/ChipotleMayo"/>
+        <Button
+            android:id="@+id/DeliMustard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Deli Mustard"
+            android:layout_below="@id/Mayonnaise"/>
+        <Button
+            android:id="@+id/DijonMustard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dijon Mustard"
+            android:layout_below="@id/DeliMustard"/>
+        <Button
+            android:id="@+id/OildAndVinegar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Oil and Vinegar"
+            android:layout_below="@id/DijonMustard"/>
+        <Button
+            android:id="@+id/PestoMayo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pesto Mayo"
+            android:layout_below="@id/OildAndVinegar"/>
+        <Button
+            android:id="@+id/RussianDressing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Russian Dressing"
+            android:layout_below="@id/PestoMayo"/>
+        <Button
+            android:id="@+id/HoneyMustard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Honey Mustard"
+            android:layout_below="@id/RussianDressing"/>
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

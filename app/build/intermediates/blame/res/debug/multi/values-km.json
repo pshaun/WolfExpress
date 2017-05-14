@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 207,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "/Users/Prashant/.android/build-cache/58abd078c8ea5140725e7d462b1a4344b60eea21/output/res/values-km/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 207,
+                        "endOffset": 492
+                    }
+                }
+            }
+        ]
+    }
+]

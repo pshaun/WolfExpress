@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="170dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/images" />
+
+    <TextView
+        android:id="@+id/success"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image"
+        android:gravity="center"
+        android:padding="0dp"
+        android:text="Order Successful !"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/orderNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:padding="2dp"
+        android:text="Order #: 5237"
+        android:textSize="12sp"
+        android:layout_below="@id/success"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_below="@id/orderNum"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/relativeLayout2">
+
+
+
+        <TextView
+            android:id="@+id/amount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="Dining Dollars Left:"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:id="@+id/GenerateBtn"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_below="@id/amount"
+            android:layout_gravity="bottom"
+            android:layout_margin="10dp"
+            android:elevation="24dp"
+            android:text="Generate QR Code"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_below="@id/GenerateBtn"
+            android:layout_gravity="bottom"
+            android:layout_margin="10dp"
+            android:elevation="24dp"
+            android:text="Check Progress"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_below="@id/button2"
+            android:layout_gravity="bottom"
+            android:layout_margin="10dp"
+            android:elevation="24dp"
+            android:text="Back To Main Menu"
+            android:textSize="20sp"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="Amount Left:"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/GenerateBtn"
+            android:layout_alignStart="@+id/GenerateBtn"
+            android:layout_marginLeft="114dp"
+            android:layout_marginStart="114dp" />
+
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

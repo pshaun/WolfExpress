@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="Order History"
+        android:id="@+id/id_order_history"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+    <item
+        android:title="Payment Options"
+        android:id="@+id/id_set"
+        android:showAsAction="never"
+        android:orderInCategory="101"
+        />
+
+    <item
+        android:title="Logout"
+        android:id="@+id/id_logout"
+        android:showAsAction="never"
+        android:orderInCategory="101"
+        />
+</menu>

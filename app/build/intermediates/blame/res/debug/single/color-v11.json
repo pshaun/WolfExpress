@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

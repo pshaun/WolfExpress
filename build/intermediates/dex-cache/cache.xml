@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/Downloads/FinalProject/app/libs/httpclient-4.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18f4247ff4572a074444572cee34647c43e7c9c7">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/httpclient-4.3.3_4f179923e2f6a2f5e8f99d554239170245538660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/Downloads/FinalProject/app/libs/httpcore-4.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/httpcore-4.3.3_790d2d040893bf0d19ada9acd95a4ae69b4d8872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/.android/build-cache/ea29a998c8b222f46619c9a08528149eb7a783b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/classes_430897a39a05d402e13e5149aa14206b3621ad5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/.android/build-cache/df391883ab7ab0fa0bb6185b362ebd6fde6da2f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/classes_a1deed7c2b42b5b05a1f3e0afd766f75a9256878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/.android/build-cache/58abd078c8ea5140725e7d462b1a4344b60eea21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/classes_bf826cd967357f369257b9f97d5a930720e71a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/Downloads/FinalProject/app/libs/httpmime-4.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e02368d7b56c0c376f227378a4f77de62864d020">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/httpmime-4.3.3_0e63a818ba589d771324882474da98b99edb55c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/.android/build-cache/bcc280163ddf6430e6bcd9ea3eccc3aacf4db62a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/classes_1a465c7f150442f672b2267cb355449f80147628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/.android/build-cache/69575751ce4346eb48abf32256a7a51673a6b11f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/classes_217dfe053f39961e72f62db560e4f8bdeec64822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/.android/build-cache/8226d57ce08dbfb7e8e013aa75fc1056705683a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/classes_fb6707ee7c27cac7d7356225d159db6d019fc368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/.android/build-cache/a59acc614bd0302fd4978cb8f69c98be8fac69b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/classes_329b51c6acb84e1e26f70ec86554ac43b9684bbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Prashant/.android/build-cache/5f8274d59cdb81bf0cf238b867d2aac42d22465a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/Prashant/Downloads/FinalProject/app/build/intermediates/pre-dexed/debug/classes_16b5e19efd3375aa6b877bbf3a5104131c249551.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.Salad">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:id = "@+id/Salads"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Salad Size"
+            android:textAlignment="center"
+            android:textSize="40dp"
+            android:background="#ffffff"
+            />
+        <Button
+            android:id="@+id/SmallSalad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text = "Small Salad"
+            android:layout_below="@id/Salads"
+            />
+        <Button
+            android:id="@+id/LargeSalad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Large Salad"
+            android:layout_below="@id/SmallSalad"
+            />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

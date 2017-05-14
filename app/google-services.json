@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10491148263",
+    "firebase_url": "https://lab5hw-165020.firebaseio.com",
+    "project_id": "lab5hw-165020",
+    "storage_bucket": "lab5hw-165020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10491148263:android:0bb05763f5bbee35",
+        "android_client_info": {
+          "package_name": "com.example.kusha.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10491148263-l8ddc5sosoovj7k7ekn8q8bv8o1cndqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtLTLu3QENxBYC0Wa3hUmijGcmKxIFg1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

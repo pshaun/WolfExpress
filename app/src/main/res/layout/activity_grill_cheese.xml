@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.grill_cheese">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:id="@+id/GCheese"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select your Cheese"
+            android:textAlignment="center"
+            android:textSize="40dp"
+            android:background="#ffffff"/>
+        <Button
+            android:id="@+id/GAmerican"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="American"
+            android:layout_below="@id/GCheese"
+            />
+        <Button
+            android:id="@+id/GProvolone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Provolone"
+            android:layout_below="@id/GAmerican"/>
+        <Button
+            android:id="@+id/GPepperJack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pepper Jack"
+            android:layout_below="@id/GProvolone"/>
+        <Button
+            android:id="@+id/GSwiss"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Swiss"
+            android:layout_below="@id/GPepperJack"/>
+        <Button
+            android:id="@+id/GCheddar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cheddar"
+            android:layout_below="@id/GSwiss"/>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
+
+

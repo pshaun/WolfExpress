@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.Greens">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteY="8dp"
+    tools:layout_editor_absoluteX="8dp"
+    tools:ignore="MissingConstraints">
+    <TextView
+        android:id="@+id/Greens"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Greens"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:background="#ffffff"/>
+    <Button
+        android:id="@+id/Romaine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Romaine"
+        android:layout_below="@id/Greens"
+        />
+    <Button
+        android:id="@+id/kale"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kale"
+        android:layout_below="@id/Romaine"
+        />
+    <Button
+        android:id="@+id/MVPB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mann Veggie Power Blend"
+        android:layout_below="@id/kale"
+        />
+    <Button
+        android:id="@+id/Spinach"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Spinach"
+        android:layout_below="@id/MVPB"
+        />
+</RelativeLayout>
+</android.support.constraint.ConstraintLayout>

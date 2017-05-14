@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.Burgers">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:id="@+id/Burgers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Burger"
+            android:textAlignment="center"
+            android:textSize="40dp"
+            android:background="#ffffff"/>
+        <Button
+            android:id="@+id/FreshBeefBurger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fresh Beef Burger"
+            android:layout_below="@id/Burgers"
+            />
+        <Button
+            android:id="@+id/DoubleBurger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Double Burger"
+            android:layout_below="@id/FreshBeefBurger"
+            />
+        <Button
+            android:id="@+id/TurkeyBurger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Turkey Burger"
+            android:layout_below="@id/DoubleBurger"
+            />
+        <Button
+            android:id="@+id/GVBurger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Garden Vegetable Burger"
+            android:layout_below="@id/TurkeyBurger"
+            />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

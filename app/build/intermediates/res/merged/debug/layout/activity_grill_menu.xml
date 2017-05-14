@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.GrillMenu">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:id="@+id/GrillMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Sandwich"
+            android:textAlignment="center"
+            android:textSize="40dp"
+            android:background="#ffffff"/>
+        <Button
+            android:id="@+id/ChickenSandwich"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sandwich or Chicken"
+            android:layout_below="@id/GrillMenu"
+            />
+        <Button
+            android:id="@+id/Burger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Burger or Hot Dog"
+            android:layout_below="@id/ChickenSandwich"
+            />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

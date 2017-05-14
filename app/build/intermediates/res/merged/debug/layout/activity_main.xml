@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.MainActivity">
+
+
+        android:id="@+id/nameit"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+
+        <TextView
+            android:id="@+id/Menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:text="What would you like to eat today?"
+            android:textAlignment="center"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+
+        <ImageButton
+            android:id="@+id/Wraps"
+            style="@android:style/Widget.ImageButton"
+            android:layout_width="450dp"
+            android:layout_height="170dp"
+            android:layout_below="@id/Menu"
+            android:layout_centerInParent="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/wraps2" />
+
+        <ImageButton
+            android:id="@+id/Grill"
+            style="@android:style/Widget.ImageButton"
+            android:layout_width="450dp"
+            android:layout_height="170dp"
+            android:layout_below="@id/Wraps"
+            android:layout_centerInParent="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/grill4" />
+
+        <ImageButton
+            android:id="@+id/Salads"
+            style="@android:style/Widget.ImageButton"
+            android:layout_width="450dp"
+            android:layout_height="170dp"
+            android:layout_below="@id/Grill"
+            android:layout_centerInParent="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/salad2" />
+
+        <TextView
+            android:id="@+id/greeting_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#20ffffff"
+            android:text="Welcome, User"
+            android:textAlignment="center"
+
+            android:textSize="25dp"
+            android:layout_below="@+id/Salads"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/greeting_text_view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#20ffffff"
+            android:text="Welcome, User"
+            android:textAlignment="center"
+
+            android:textSize="15dp"
+            android:layout_below="@id/greeting_text_view"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+
+    </RelativeLayout>

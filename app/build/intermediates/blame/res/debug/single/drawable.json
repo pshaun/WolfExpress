@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/Prashant/.android/build-cache/9028e92e551155fcf3f6f4f4e0b28c820aba1fed/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/icon_start.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/icon_start.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/images.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/images.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/wraps.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/wraps.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/Prashant/.android/build-cache/87cde9d6b22bc76a801f28e3674ff36973e9e7f2/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/Prashant/.android/build-cache/87cde9d6b22bc76a801f28e3674ff36973e9e7f2/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/drawable_circle_dark_blue.xml",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/drawable_circle_dark_blue.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/Prashant/.android/build-cache/9028e92e551155fcf3f6f4f4e0b28c820aba1fed/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/drawable_circle_yellow.xml",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/drawable_circle_yellow.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/icon_stop.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/icon_stop.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/Prashant/.android/build-cache/87cde9d6b22bc76a801f28e3674ff36973e9e7f2/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/Prashant/.android/build-cache/9028e92e551155fcf3f6f4f4e0b28c820aba1fed/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/Prashant/.android/build-cache/9028e92e551155fcf3f6f4f4e0b28c820aba1fed/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/Prashant/.android/build-cache/87cde9d6b22bc76a801f28e3674ff36973e9e7f2/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/salads.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/salads.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/Prashant/.android/build-cache/87cde9d6b22bc76a801f28e3674ff36973e9e7f2/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/Prashant/.android/build-cache/9028e92e551155fcf3f6f4f4e0b28c820aba1fed/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/grill2.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/grill2.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/Prashant/.android/build-cache/87cde9d6b22bc76a801f28e3674ff36973e9e7f2/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/grill.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/grill.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/icon_reset.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/icon_reset.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/wolfiee.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/wolfiee.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/grill3.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/grill3.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/grill4.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/grill4.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/salad2.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/salad2.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/Prashant/.android/build-cache/87cde9d6b22bc76a801f28e3674ff36973e9e7f2/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/wraps2.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/wraps2.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/image.png",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/image.png"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/Prashant/.android/build-cache/87cde9d6b22bc76a801f28e3674ff36973e9e7f2/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/greenprogress.xml",
+        "source": "/Users/Prashant/Downloads/FinalProject/app/src/main/res/drawable/greenprogress.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/drawable/abc_tab_indicator_material.xml"
+    }
+]

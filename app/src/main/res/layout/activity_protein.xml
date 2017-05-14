@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kusha.finalproject.Protein">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/ProteinMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Protein"
+            android:textAlignment="center"
+            android:textSize="40dp"
+            android:background="#ffffff"/>
+
+        <Button
+            android:id="@+id/EggSalad"
+            android:layout_width="500dp"
+            android:layout_height="wrap_content"
+
+            android:layout_below="@id/ProteinMenu"
+            android:text="Egg Salad"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/ChickenSalad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/EggSalad"
+
+            android:text="Chicken Salad" />
+
+        <Button
+            android:id="@+id/TunaSalad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ChickenSalad"
+
+            android:text="Tuna Salad" />
+
+        <Button
+            android:id="@+id/CripsyChicken"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/TunaSalad"
+            android:text="Crispy Chicken" />
+
+        <Button
+            android:id="@+id/RoastedChicken"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/CripsyChicken"
+            android:text="Roasted Chicken" />
+
+        <Button
+            android:id="@+id/GrillVeggies"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/RoastedChicken"
+
+            android:text="Grilled Veggies" />
+
+        <Button
+            android:id="@+id/Ham"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/GrillVeggies"
+
+            android:text="Ham" />
+
+        <Button
+            android:id="@+id/RoastBeef"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Ham"
+            android:layout_centerHorizontal="true"
+
+            android:text="Roast Beef" />
+
+        <Button
+            android:id="@+id/Salami"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/RoastBeef"
+            android:text="Salami" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

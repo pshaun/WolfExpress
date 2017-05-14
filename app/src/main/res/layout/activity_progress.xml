@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ProgressBar
+        android:id="@+id/progressBarCircle"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="450dp"
+        android:layout_height="40dp"
+
+
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:progressBackgroundTint="@color/holo_green_light"
+        android:progressDrawable="@drawable/greenprogress"
+        android:rotation="180"
+        android:visibility="visible"
+        tools:visibility="visible" />
+
+
+    <ImageView
+        android:id="@+id/imageViewStartStop"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/progressBarCircle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/progressBarCircle"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/progressBarCircle"
+        android:layout_marginTop="28dp"
+        android:text="Progress:"
+        android:textAllCaps="true"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/progressBarCircle"
+        android:layout_alignStart="@+id/progressBarCircle"
+        android:layout_alignTop="@+id/imageViewStartStop"
+        android:text="Order Placed"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageViewStartStop"
+        android:layout_centerHorizontal="true"
+        android:text="  Food is Preparing"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Complete"
+        android:textSize="12sp"
+        android:layout_alignBaseline="@+id/textView4"
+        android:layout_alignBottom="@+id/textView4"
+        android:layout_alignRight="@+id/progressBarCircle"
+        android:layout_alignEnd="@+id/progressBarCircle" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_below="@+id/imageViewStartStop"
+        android:text="Your ORDER:"
+        android:textAllCaps="true"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="20sp"
+        android:layout_below="@+id/textView7"
+        android:layout_alignLeft="@+id/textView7"
+        android:layout_alignStart="@+id/textView7" />
+
+</RelativeLayout>

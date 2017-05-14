@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Prashant/Downloads/FinalProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Prashant/.android/build-cache/3af5c6ed47fd1ad50eb6071ac0859ec39ad599f6/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
